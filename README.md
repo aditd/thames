@@ -1,12 +1,4 @@
-# Hotels
-
-## Creators
-
-1. [Paritosh Panda](https://github.com/Tashi21)
-2. [Adit Dhawan](https://github.com/aditd)
-3. [Shriman Visahan](https://github.com/Shriman02)
-
-## About the Project
+# Hotels## About the Project
 
 ### Tech Stack
 
@@ -26,19 +18,21 @@ pip install --user pipenv
 Here is how you can set up the entire project on your system from the command line:
 
 ``` terminal
-git clone https://github.com/Tashi21/travel.git
+git clone https://github.com/aditd/thames.git
 cd travel
 pipenv install
 pipenv shell
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 ### Overview
 
-This is a simple e-travel website made for our Advanced Programming course, taught by Professor Anirban Mondal, in our 3rd semester at Ashoka. The backend for the website was developed by Adit and Paritosh, and the frontend by Adit, Paritosh, and Shriman.
+This is a simple e-travel website made by me. I scraped data from bookings.com using Selenium.
 
-This time we incorporated our learnings from the last project and divided backend and frontend clearly amongst ouselves. This helped streamline our workflow and didn't result in many bottlenecks.
+# Screenshots of the website
 
-Paritosh finally compiled all the code together and linked the backend to the frontend.
+<img width="1229" alt="Screenshot 2022-02-21 at 2 42 15 PM" src="https://user-images.githubusercontent.com/15091953/154924858-a2429acd-0385-41df-9c65-741c960c476a.png">
+![Uploading Screenshot 2022-02-21 at 2.42.41 PM.png…]()
 
-<Adit add how you scraped data>
+![Uploading Screenshot 2022-02-21 at 2.45.13 PM.png…]()
+
