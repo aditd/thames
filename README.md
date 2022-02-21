@@ -1,4 +1,5 @@
-# Hotels## About the Project
+# Hotels
+## About the Project
 
 ### Tech Stack
 
